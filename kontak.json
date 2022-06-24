@@ -1,0 +1,7 @@
+[
+    {"nama": "Kepolisian", "nomor": "110", "image" : "polisi"},
+    {"nama": "SAR / Basarnas", "nomor": "115", "image" : "basarnas"},
+    {"nama": "Hotline Covid-19", "nomor": "1119", "image" : "covid19"},
+    {"nama": "Posko Bencana Alam", "nomor": "129", "image" : "bencanaalam"},
+    {"nama": "Pemadam Kebakaran", "nomor": "113", "image" : "damkar"}
+]
